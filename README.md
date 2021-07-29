@@ -1,6 +1,5 @@
-# Diprunning_study
+# :page_with_curl:Diprunning_Project
 
-## :page_with_curl: about 딥러닝 
 
 # TFT 논문 분석 Project
   * 내용 : 딥러닝에 대해 공부하며 그 중, 시계열 딥러닝 모델중 하나인 TFT에 관한 논문을 심층적으로 분석해 Dacon 시계열 분석 대회에 적용하였다.
